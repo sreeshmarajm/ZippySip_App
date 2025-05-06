@@ -23,6 +23,9 @@ Zippy Zip is an ASP.NET MVC web app for ordering juices, smoothies, and hot drin
 
 ![Cart](ScreenShots/Cart.png)
 
+## 🎥 Demo Video
+
+https://youtu.be/Vvb7eJaRD3w
 
 ## 🚀 Features
 👤 User registration, login, and authentication
