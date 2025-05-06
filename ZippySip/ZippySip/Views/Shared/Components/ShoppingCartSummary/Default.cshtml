@@ -1,0 +1,16 @@
+﻿@using ZippySip.ViewModels
+@model ShoppingCartViewModel
+
+@if (Model.ShoppingCart.ShoppingCartItems.Count > 0)
+{
+    
+    <li class="nav-item">
+        <a asp-controller="ShoppingCart" class="nav-link">
+            <i class="fas fa-shopping-cart" style="color:orange"></i> <!-- FontAwesome cart icon -->
+            <span id="cart-status" style="color:orange">
+                @Model.ShoppingCart.ShoppingCartItems.Count
+            </span>
+        </a>
+    </li>
+    
+}

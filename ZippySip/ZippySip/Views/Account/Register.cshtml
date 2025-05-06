@@ -1,0 +1,41 @@
+﻿@using ZippySip.ViewModels
+@model LoginViewModel
+<div class="row justify-content-center mt-5">
+    <div class="col-md-6">
+        <div class="border rounded-4 shadow-sm p-5 bg-white">
+            <div class="text-center mb-4">
+                <img src="/Images/ZippyZipLogo.jpg" style="width:100px; height:auto;" class="img-fluid" alt="ZippySip Logo" />
+            </div>
+
+            <h2 class="text-center mb-4 fw-bold" style="color:crimson">Create Your Account</h2>
+            <p class="text-center mb-4" style="font-style: italic; font-family: 'Cursive'; color: orange;">
+                Join ZippySip and Feel the freshness!
+            </p>
+
+            <form asp-controller="Account" asp-action="Register" method="post">
+                <div class="mb-3">
+                    <label asp-for="UserName" class="form-label fw-semibold">Username</label>
+                    <input asp-for="UserName" class="form-control" placeholder="Choose a username" />
+                    <span asp-validation-for="UserName" class="text-danger small"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Password" class="form-label fw-semibold">Password</label>
+                    <input asp-for="Password" class="form-control" type="password" placeholder="Create a password" />
+                    <span asp-validation-for="Password" class="text-danger small"></span>
+                </div>
+
+                <div class="d-grid mt-4">
+                    <button type="submit" class="btn btn-outline-danger btn-sm" >Register Now</button>
+                </div>
+
+                <div class="text-center mt-3">
+                    <small class="text-muted">
+                        Already have an account?
+                        <a asp-controller="Account" asp-action="Login" class="text-decoration-none">Log in</a>
+                    </small>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

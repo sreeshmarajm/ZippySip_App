@@ -1,0 +1,26 @@
+﻿@using ZippySip.ViewModels;
+@model DrinkListViewModel
+<style>
+    .card-img-top {
+        height: 250px;
+        object-fit: cover;
+        width: 100%;
+    }
+</style>
+
+<div>
+    <h2 style ="color:brown;font-style: italic; font-family: 'Brush Script MT', cursive">@Model.CurrentCategory</h2>
+</div>
+<br />
+
+<h2>@ViewBag.Name</h2>
+
+@{
+
+    <div class="row">
+        @foreach (Drink drink in Model.Drinks)
+        {
+            @Html.Partial("DrinkSummary",drink);
+        }
+    </div>
+}

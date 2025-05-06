@@ -1,0 +1,31 @@
+﻿@model Drink
+@using System.Globalization
+
+@{
+    // Create a custom culture for English formatting with AED
+    var culture = (CultureInfo)CultureInfo.GetCultureInfo("en-US").Clone();
+    culture.NumberFormat.CurrencySymbol = "AED ";
+    culture.NumberFormat.CurrencyPositivePattern = 2; // "AED 10.50"
+    culture.NumberFormat.CurrencyNegativePattern = 2; // "-AED 10.50"
+}
+
+<div class="col-sm-4 mb-4">
+    <div class="card h-100">
+        <img class="card-img-top" src="@Model.ImageThumbnailUrl" alt="@Model.Name" />
+        <div class="card-body">
+            <h5 class="card-title" style="color:crimson;font-style:oblique"><b>@Model.Name</b></h5>
+            <p class="card-text" style="color:darkorange;font-style: italic; font-family: 'Brush Script MT', cursive;font-size:small">@Model.ShortDescription</p>
+        </div>
+        <div class="card-footer d-flex justify-content-between align-items-center">
+            <small class=" mb-0" style="color:crimson;">
+                @(Model.Price.HasValue ? Model.Price.Value.ToString("C", culture) : "N/A")
+            </small>
+            <a class="btn text-white" style="background-color: crimson;" id="cartButton"
+               asp-controller="ShoppingCart" asp-action="AddToShoppingCart"
+               asp-route-drinkId="@Model.DrinkId">
+                Add to cart
+            </a>
+        </div>
+        
+    </div>
+</div>

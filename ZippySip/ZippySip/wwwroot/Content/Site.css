@@ -1,0 +1,78 @@
+﻿﻿#cartButton {
+    margin-right: 8px;
+}
+
+nav {
+    padding: 8px;
+}
+
+.loginForm {
+    margin: 10%;
+}
+
+.checkoutForm {
+    margin-top: 5%;
+}
+
+.orderForm {
+    margin-top: 5%;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #2fa4e7;
+}
+
+a.remove {
+    text-decoration: none;
+}
+
+    a.remove:hover {
+        color: blue;
+    }
+
+.center_div {
+    margin: 0 auto;
+    width: 80% /* value of your choice which suits your alignment */
+}
+
+.marginTop {
+    margin-top: 5%;
+}
+
+.marginTop1 {
+    margin-top: 10%;
+}
+
+.formPullRightButton {
+    margin-right: 10px !important
+}
+
+.carousel img {
+    min-width: 100%;
+}
+.carousel-holder {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+#carouselExampleIndicators {
+    border: 5px ;
+    padding: 5px;
+    background-color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.slide-image {
+    height: 200px; /* Same height for all carousel images */
+    width:800px;
+    object-fit:contain; /* Zooms and crops nicely */
+}
+.carousel-container {
+    width: 80%; /* Or 100%, or any fixed px like 1200px */
+    margin: 0 auto; /* Center the carousel */
+    border: 2px solid yellow; /* Optional border like your sample */
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.3); /* Optional shadow */
+}
+
+.carousel-inner, .carousel-item, .slide-image {
+    height: 400px; /* Match height */
+}

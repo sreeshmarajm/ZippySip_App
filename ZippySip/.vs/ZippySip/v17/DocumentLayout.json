@@ -1,0 +1,883 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\views\\drink\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\views\\drink\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\viewmodels\\drinklistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\viewmodels\\drinklistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\controllers\\drinkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\controllers\\drinkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\views\\shared\\components\\categorymenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\views\\shared\\components\\categorymenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\repositories\\drinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\repositories\\drinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\views\\order\\checkoutcomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\views\\order\\checkoutcomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\views\\shared\\drinksummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\views\\shared\\drinksummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\views\\drinkhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\views\\drinkhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\views\\shared\\components\\shoppingcartsummary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\views\\shared\\components\\shoppingcartsummary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\views\\shared\\loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\views\\shared\\loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\views\\shared\\carousel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\views\\shared\\carousel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\wwwroot\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\wwwroot\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\components\\shoppingcartsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\components\\shoppingcartsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Migrations\\20250427111055_Orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ZippySip\\Migrations\\20250427111055_Orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\components\\categorymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\components\\categorymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\taghelpers\\emailtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\taghelpers\\emailtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\viewmodels\\drinkhomeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\viewmodels\\drinkhomeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\controllers\\drinkhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\controllers\\drinkhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\viewmodels\\shoppingcartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\viewmodels\\shoppingcartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Migrations\\20250425120951_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ZippySip\\Migrations\\20250425120951_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Migrations\\20250424144447_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ZippySip\\Migrations\\20250424144447_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\models\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\models\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\mocks\\mockdrinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\mocks\\mockdrinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\interfaces\\idrinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\interfaces\\idrinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\mocks\\mockcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\mocks\\mockcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\migrations\\20250428072746_edited2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\migrations\\20250428072746_edited2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|c:\\users\\nikhi\\desktop\\drinkandgo\\zippysip\\zippysip\\migrations\\20250427185408_edited.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3925C378-6BF9-4616-A31F-8A674F094343}|ZippySip\\ZippySip.csproj|solutionrelative:zippysip\\migrations\\20250427185408_edited.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "ZippySip\\Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
+              "RelativeToolTip": "ZippySip\\Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T10:46:29.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DrinkListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\ViewModels\\DrinkListViewModel.cs",
+              "RelativeDocumentMoniker": "ZippySip\\ViewModels\\DrinkListViewModel.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\ViewModels\\DrinkListViewModel.cs",
+              "RelativeToolTip": "ZippySip\\ViewModels\\DrinkListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:04:35.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Drink\\List.cshtml",
+              "RelativeDocumentMoniker": "ZippySip\\Views\\Drink\\List.cshtml",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Drink\\List.cshtml",
+              "RelativeToolTip": "ZippySip\\Views\\Drink\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T11:17:54.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "ZippySip\\Views\\ShoppingCart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeToolTip": "ZippySip\\Views\\ShoppingCart\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T11:42:04.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "ZippySip\\Models\\ShoppingCart.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAADwv2wAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T09:29:38.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "ZippySip\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:19:26.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ZippySip\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ZippySip\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T11:10:39.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ZippySip\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ZippySip\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T08:24:38.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DrinkController.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Controllers\\DrinkController.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Controllers\\DrinkController.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Controllers\\DrinkController.cs",
+              "RelativeToolTip": "ZippySip\\Controllers\\DrinkController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:05:57.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "ZippySip\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "ZippySip\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T21:45:19.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DrinkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Repositories\\DrinkRepository.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Repositories\\DrinkRepository.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Repositories\\DrinkRepository.cs",
+              "RelativeToolTip": "ZippySip\\Repositories\\DrinkRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:00:20.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "ZippySip\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:41:14.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Extensions\\ApplicationServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeToolTip": "ZippySip\\Extensions\\ApplicationServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:54:10.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Order\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "ZippySip\\Views\\Order\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Order\\Checkout.cshtml",
+              "RelativeToolTip": "ZippySip\\Views\\Order\\Checkout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T19:43:06.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CheckoutComplete.cshtml",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Order\\CheckoutComplete.cshtml",
+              "RelativeDocumentMoniker": "ZippySip\\Views\\Order\\CheckoutComplete.cshtml",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Order\\CheckoutComplete.cshtml",
+              "RelativeToolTip": "ZippySip\\Views\\Order\\CheckoutComplete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T19:19:08.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DrinkSummary.cshtml",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Shared\\DrinkSummary.cshtml",
+              "RelativeDocumentMoniker": "ZippySip\\Views\\Shared\\DrinkSummary.cshtml",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Shared\\DrinkSummary.cshtml",
+              "RelativeToolTip": "ZippySip\\Views\\Shared\\DrinkSummary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T08:48:31.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ZippySip\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ZippySip\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T08:30:29.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\DrinkHome\\Index.cshtml",
+              "RelativeDocumentMoniker": "ZippySip\\Views\\DrinkHome\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\DrinkHome\\Index.cshtml",
+              "RelativeToolTip": "ZippySip\\Views\\DrinkHome\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T12:02:19.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Shared\\Components\\ShoppingCartSummary\\Default.cshtml",
+              "RelativeDocumentMoniker": "ZippySip\\Views\\Shared\\Components\\ShoppingCartSummary\\Default.cshtml",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Shared\\Components\\ShoppingCartSummary\\Default.cshtml",
+              "RelativeToolTip": "ZippySip\\Views\\Shared\\Components\\ShoppingCartSummary\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T21:05:03.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Shared\\LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ZippySip\\Views\\Shared\\LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Shared\\LoginPartial.cshtml",
+              "RelativeToolTip": "ZippySip\\Views\\Shared\\LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T08:35:32.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ZippySip\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:44:31.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Carousel.cshtml",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Shared\\Carousel.cshtml",
+              "RelativeDocumentMoniker": "ZippySip\\Views\\Shared\\Carousel.cshtml",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\Shared\\Carousel.cshtml",
+              "RelativeToolTip": "ZippySip\\Views\\Shared\\Carousel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T12:24:17.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ZippySip\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T13:14:56.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\wwwroot\\Content\\Site.css",
+              "RelativeDocumentMoniker": "ZippySip\\wwwroot\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\wwwroot\\Content\\Site.css",
+              "RelativeToolTip": "ZippySip\\wwwroot\\Content\\Site.css",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwCkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-24T13:17:31.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ZippySip\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:36:41.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ZippySip\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ZippySip\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:52:47.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20250428072746_edited2.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Migrations\\20250428072746_edited2.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Migrations\\20250428072746_edited2.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Migrations\\20250428072746_edited2.cs",
+              "RelativeToolTip": "ZippySip\\Migrations\\20250428072746_edited2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:27:46.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Models\\Order.cs",
+              "RelativeToolTip": "ZippySip\\Models\\Order.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:57:49.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Models\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Models\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Models\\OrderDetails.cs",
+              "RelativeToolTip": "ZippySip\\Models\\OrderDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:02:19.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Program.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Program.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Program.cs",
+              "RelativeToolTip": "ZippySip\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:02:13.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "ZippySip\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:14:57.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20250427185408_Edited.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Migrations\\20250427185408_Edited.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Migrations\\20250427185408_Edited.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Migrations\\20250427185408_Edited.cs",
+              "RelativeToolTip": "ZippySip\\Migrations\\20250427185408_Edited.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:54:08.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "ZippySip\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:06:37.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ShoppingCartSummary.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Components\\ShoppingCartSummary.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Components\\ShoppingCartSummary.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Components\\ShoppingCartSummary.cs",
+              "RelativeToolTip": "ZippySip\\Components\\ShoppingCartSummary.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:56:15.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250427111055_Orders.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Migrations\\20250427111055_Orders.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Migrations\\20250427111055_Orders.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Migrations\\20250427111055_Orders.cs",
+              "RelativeToolTip": "ZippySip\\Migrations\\20250427111055_Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:10:55.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "ZippySip\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:13:09.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ZippySip\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ZippySip\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T12:21:32.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryMenu.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Components\\CategoryMenu.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Components\\CategoryMenu.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Components\\CategoryMenu.cs",
+              "RelativeToolTip": "ZippySip\\Components\\CategoryMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:42:52.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Models\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Models\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Models\\DbInitializer.cs",
+              "RelativeToolTip": "ZippySip\\Models\\DbInitializer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwIgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:29:18.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EmailTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\TagHelpers\\EmailTagHelper.cs",
+              "RelativeDocumentMoniker": "ZippySip\\TagHelpers\\EmailTagHelper.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\TagHelpers\\EmailTagHelper.cs",
+              "RelativeToolTip": "ZippySip\\TagHelpers\\EmailTagHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:38:27.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DrinkHomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\ViewModels\\DrinkHomeViewModel.cs",
+              "RelativeDocumentMoniker": "ZippySip\\ViewModels\\DrinkHomeViewModel.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\ViewModels\\DrinkHomeViewModel.cs",
+              "RelativeToolTip": "ZippySip\\ViewModels\\DrinkHomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:55:11.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DrinkHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Controllers\\DrinkHomeController.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Controllers\\DrinkHomeController.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Controllers\\DrinkHomeController.cs",
+              "RelativeToolTip": "ZippySip\\Controllers\\DrinkHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:52:44.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ShoppingCartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\ViewModels\\ShoppingCartViewModel.cs",
+              "RelativeDocumentMoniker": "ZippySip\\ViewModels\\ShoppingCartViewModel.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\ViewModels\\ShoppingCartViewModel.cs",
+              "RelativeToolTip": "ZippySip\\ViewModels\\ShoppingCartViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:26:45.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ShoppingCartItem.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Models\\ShoppingCartItem.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Models\\ShoppingCartItem.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Models\\ShoppingCartItem.cs",
+              "RelativeToolTip": "ZippySip\\Models\\ShoppingCartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T09:13:47.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250425120951_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Migrations\\20250425120951_Initial.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Migrations\\20250425120951_Initial.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Migrations\\20250425120951_Initial.cs",
+              "RelativeToolTip": "ZippySip\\Migrations\\20250425120951_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T12:09:51.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\appsettings.json",
+              "RelativeDocumentMoniker": "ZippySip\\appsettings.json",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\appsettings.json",
+              "RelativeToolTip": "ZippySip\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T14:42:15.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Models\\Category.cs",
+              "RelativeToolTip": "ZippySip\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:45:05.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250424144447_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Migrations\\20250424144447_Initial.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Migrations\\20250424144447_Initial.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Migrations\\20250424144447_Initial.cs",
+              "RelativeToolTip": "ZippySip\\Migrations\\20250424144447_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:44:48.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ZippySip\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ZippySip\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-24T12:31:14.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Drink.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Models\\Drink.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Models\\Drink.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Models\\Drink.cs",
+              "RelativeToolTip": "ZippySip\\Models\\Drink.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:44:42.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MockDrinkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Mocks\\MockDrinkRepository.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Mocks\\MockDrinkRepository.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Mocks\\MockDrinkRepository.cs",
+              "RelativeToolTip": "ZippySip\\Mocks\\MockDrinkRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:04:55.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MockCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Mocks\\MockCategoryRepository.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Mocks\\MockCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Mocks\\MockCategoryRepository.cs",
+              "RelativeToolTip": "ZippySip\\Mocks\\MockCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:00:58.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IDrinkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Interfaces\\IDrinkRepository.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Interfaces\\IDrinkRepository.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Interfaces\\IDrinkRepository.cs",
+              "RelativeToolTip": "ZippySip\\Interfaces\\IDrinkRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:06:16.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "ZippySip\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\nikhi\\Desktop\\DrinkAndGo\\ZippySip\\ZippySip\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "ZippySip\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:09:27.891Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

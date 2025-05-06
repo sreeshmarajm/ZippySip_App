@@ -1,0 +1,108 @@
+﻿@using ZippySip.ViewModels
+@model ShoppingCartViewModel
+@using System.Globalization
+
+@{
+    // Create a custom culture for English formatting with AED
+    var culture = (CultureInfo)CultureInfo.GetCultureInfo("en-US").Clone();
+    culture.NumberFormat.CurrencySymbol = "AED ";
+    culture.NumberFormat.CurrencyPositivePattern = 2; // "AED 10.50"
+    culture.NumberFormat.CurrencyNegativePattern = 2; // "-AED 10.50"
+}
+<style>
+    .card img {
+        max-height: 80px;
+        max-width:80px;
+        object-fit: contain;
+    }
+
+    .btn-qty {
+        border: none;
+        background: crimson;
+        color: white;
+        padding: 5px 10px;
+        border-radius: 4px;
+    }
+</style>
+
+<div class="container my-5">
+    <div class="card shadow-sm border-0 rounded-4">
+        <div class="card-body">
+
+            <h2 class="card-title text-center mb-3 " style="color:crimson;font-style: italic; font-family: 'Brush Script MT', cursive;">🛒 Your Shopping Cart</h2>
+            <h5 class="text-center  mb-4" style="color:darkorange;font-style: italic; font-family: 'Brush Script MT', cursive;">Here are the items you've selected.</h5>
+
+            <div class="table-responsive">
+                @foreach (var line in Model.ShoppingCart.ShoppingCartItems)
+                {
+                    <div class="card mb-3 shadow-sm p-3">
+                        <div class="row g-3 align-items-center">
+                            <div class="col-md-2">
+                                <img src="@line.Drink.ImageUrl" class="img-fluid rounded card-img" alt="@line.Drink.Name" />
+                            </div>
+
+                            <div class="col-md-4">
+                                <h5 class="mb-1">@line.Drink.Name</h5>
+                                <small style="color:darkorange;font-style: italic; font-family: 'Brush Script MT', cursive;">Currently available: @line.Drink.InStock</small>
+                            </div>
+
+                            <div class="col-md-2 text-center">
+                                <div class="d-flex align-items-center justify-content-center">
+                                    <form asp-controller="ShoppingCart" asp-action="UpdateQuantity" method="post">
+                                        <input type="hidden" name="DrinkId" value="@line.Drink.DrinkId" />
+                                        <input type="hidden" name="Amount" value="@(line.Amount - 1)" />
+                                        <button type="submit" class="btn-qty">−</button>
+                                    </form>
+                                    <span class="px-2">@line.Amount</span>
+                                    <form asp-controller="ShoppingCart" asp-action="UpdateQuantity" method="post">
+                                        <input type="hidden" name="DrinkId" value="@line.Drink.DrinkId" />
+                                        <input type="hidden" name="Amount" value="@(line.Amount + 1)" />
+                                        <button type="submit" class="btn-qty">+</button>                                                                                                                                                        
+                                    </form>
+                                </div>
+                            </div>
+
+                            <div class="col-md-2 text-center">
+                                <div>Rate:<br /><strong>@line.Drink.Price.Value.ToString("C", culture)</strong></div>
+                            </div>
+
+                            <div class="col-md-1 text-center">
+                                <div>Total:<br /><strong>@((line.Amount * line.Drink.Price).Value.ToString("C", culture))</strong></div>
+                            </div>
+
+                            <div class="col-md-1 text-end">
+                                <a asp-controller="ShoppingCart" asp-action="RemoveFromShoppingCart" asp-route-drinkId="@line.Drink.DrinkId"
+                                   class="btn btn-sm btn-danger">
+                                    <i class="bi bi-trash"></i> Remove
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                }
+                <!-- Total Amount Display -->
+                <div class="text-end mt-4">
+                    <h4>Total: <span style="color:crimson">@Model.ShoppingCartTotal.ToString("C", culture)</span></h4>
+                </div>
+
+            </div>
+
+            <div class="d-flex justify-content-end gap-3 mt-4">
+                <a class="btn text-white btn-lg" style="background-color:crimson" asp-controller="Order" asp-action="Checkout">
+                    <i class="bi bi-bag-check-fill"></i> Checkout
+                </a>
+
+                <div class="dropdown">
+                    <button class="btn text-white  btn-lg dropdown-toggle" style="background-color:crimson" type="button" id="addMoreDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                        <i class="bi bi-cup-straw"></i> Add More Drinks
+                    </button>
+                    <ul class="dropdown-menu dropdown-menu-end"  aria-labelledby="addMoreDropdown">
+                        <li style="font-style: italic; font-family: 'Brush Script MT', cursive;"><a class="dropdown-item" asp-controller="Drink" asp-action="List" asp-route-category="Smoothie">Smoothie</a></li>
+                        <li style="font-style: italic; font-family: 'Brush Script MT', cursive;"><a class="dropdown-item" asp-controller="Drink" asp-action="List" asp-route-category="Juice">Juice</a></li>
+                        <li style="font-style: italic; font-family: 'Brush Script MT', cursive;"><a class="dropdown-item" asp-controller="Drink" asp-action="List" asp-route-category="Hot Drinks">Hot Drinks</a></li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

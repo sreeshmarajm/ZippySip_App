@@ -1,0 +1,23 @@
+﻿@using ZippySip.ViewModels
+@model DrinkHomeViewModel
+<style>
+    .card-img-top {
+        height: 250px;
+        object-fit: cover;
+        width: 100%;
+    }
+</style>
+@await Html.PartialAsync("Carousel")
+
+<h2 class="mt-5 text-center" style="color:crimson; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700;">
+    ✨ Preferred Drinks of the Week ✨
+</h2>
+<h6 class="ms-2 text-center" style="color:darkorange; font-style: italic; font-family: 'Brush Script MT', cursive;">
+    <i>Client Preferences - Just for you!</i>
+</h6>
+<div class="row mt-5">
+    @foreach(var drink in Model.PrefferedDrinks )
+    {
+        @Html.Partial("DrinkSummary",drink)
+    }
+</div>
